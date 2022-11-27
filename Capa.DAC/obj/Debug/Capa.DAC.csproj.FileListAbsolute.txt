@@ -1,0 +1,16 @@
+c:\users\elton\onedrive\documentos\visual studio 2015\Projects\Quatrochi_Elio\Capa.DAC\bin\Debug\Capa.DAC.dll
+c:\users\elton\onedrive\documentos\visual studio 2015\Projects\Quatrochi_Elio\Capa.DAC\bin\Debug\Capa.DAC.pdb
+c:\users\elton\onedrive\documentos\visual studio 2015\Projects\Quatrochi_Elio\Capa.DAC\bin\Debug\Capa.Entities.dll
+c:\users\elton\onedrive\documentos\visual studio 2015\Projects\Quatrochi_Elio\Capa.DAC\bin\Debug\Capa.Entities.pdb
+c:\users\elton\onedrive\documentos\visual studio 2015\Projects\Quatrochi_Elio\Capa.DAC\obj\Debug\Capa.DAC.csprojResolveAssemblyReference.cache
+c:\users\elton\onedrive\documentos\visual studio 2015\Projects\Quatrochi_Elio\Capa.DAC\obj\Debug\Capa.DAC.dll
+c:\users\elton\onedrive\documentos\visual studio 2015\Projects\Quatrochi_Elio\Capa.DAC\obj\Debug\Capa.DAC.pdb
+C:\Users\Desarrollo\Downloads\Capa.DAC\obj\Debug\Capa.DAC.csproj.AssemblyReference.cache
+C:\Users\Desarrollo\Downloads\Capa.DAC\obj\Debug\Capa.DAC.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Downloads\Capa.DAC\obj\Debug\Capa.DAC.dll
+C:\Users\Desarrollo\Downloads\Capa.DAC\obj\Debug\Capa.DAC.pdb
+C:\Users\Desarrollo\Downloads\Capa.DAC\bin\Debug\Capa.DAC.dll
+C:\Users\Desarrollo\Downloads\Capa.DAC\bin\Debug\Capa.DAC.pdb
+C:\Users\Desarrollo\Downloads\Capa.DAC\bin\Debug\Capa.Entities.dll
+C:\Users\Desarrollo\Downloads\Capa.DAC\bin\Debug\Capa.Entities.pdb
+C:\Users\Desarrollo\Downloads\Capa.DAC\obj\Debug\Capa.DAC.csproj.CopyComplete

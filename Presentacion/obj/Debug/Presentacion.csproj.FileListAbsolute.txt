@@ -1,0 +1,31 @@
+c:\users\elton\onedrive\documentos\visual studio 2015\Projects\Quatrochi_Elio\Presentacion\bin\Debug\Presentacion.exe.config
+c:\users\elton\onedrive\documentos\visual studio 2015\Projects\Quatrochi_Elio\Presentacion\bin\Debug\Presentacion.exe
+c:\users\elton\onedrive\documentos\visual studio 2015\Projects\Quatrochi_Elio\Presentacion\bin\Debug\Presentacion.pdb
+c:\users\elton\onedrive\documentos\visual studio 2015\Projects\Quatrochi_Elio\Presentacion\bin\Debug\Capa.BC.dll
+c:\users\elton\onedrive\documentos\visual studio 2015\Projects\Quatrochi_Elio\Presentacion\bin\Debug\Capa.Entities.dll
+c:\users\elton\onedrive\documentos\visual studio 2015\Projects\Quatrochi_Elio\Presentacion\bin\Debug\Capa.BC.pdb
+c:\users\elton\onedrive\documentos\visual studio 2015\Projects\Quatrochi_Elio\Presentacion\bin\Debug\Capa.Entities.pdb
+c:\users\elton\onedrive\documentos\visual studio 2015\Projects\Quatrochi_Elio\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+c:\users\elton\onedrive\documentos\visual studio 2015\Projects\Quatrochi_Elio\Presentacion\obj\Debug\Presentacion.Form1.resources
+c:\users\elton\onedrive\documentos\visual studio 2015\Projects\Quatrochi_Elio\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+c:\users\elton\onedrive\documentos\visual studio 2015\Projects\Quatrochi_Elio\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+c:\users\elton\onedrive\documentos\visual studio 2015\Projects\Quatrochi_Elio\Presentacion\obj\Debug\Presentacion.exe
+c:\users\elton\onedrive\documentos\visual studio 2015\Projects\Quatrochi_Elio\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Desarrollo\Downloads\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Desarrollo\Downloads\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Desarrollo\Downloads\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Desarrollo\Downloads\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Desarrollo\Downloads\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Desarrollo\Downloads\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Downloads\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Desarrollo\Downloads\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Desarrollo\Downloads\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Desarrollo\Downloads\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Desarrollo\Downloads\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Desarrollo\Downloads\Presentacion\bin\Debug\Capa.BC.dll
+C:\Users\Desarrollo\Downloads\Presentacion\bin\Debug\Capa.Entities.dll
+C:\Users\Desarrollo\Downloads\Presentacion\bin\Debug\Capa.DAC.dll
+C:\Users\Desarrollo\Downloads\Presentacion\bin\Debug\Capa.BC.pdb
+C:\Users\Desarrollo\Downloads\Presentacion\bin\Debug\Capa.Entities.pdb
+C:\Users\Desarrollo\Downloads\Presentacion\bin\Debug\Capa.DAC.pdb
+C:\Users\Desarrollo\Downloads\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete

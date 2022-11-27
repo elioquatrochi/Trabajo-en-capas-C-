@@ -1,0 +1,10 @@
+c:\users\elton\onedrive\documentos\visual studio 2015\Projects\Quatrochi_Elio\Capa.Entities\bin\Debug\Capa.Entities.dll
+c:\users\elton\onedrive\documentos\visual studio 2015\Projects\Quatrochi_Elio\Capa.Entities\bin\Debug\Capa.Entities.pdb
+c:\users\elton\onedrive\documentos\visual studio 2015\Projects\Quatrochi_Elio\Capa.Entities\obj\Debug\Capa.Entities.dll
+c:\users\elton\onedrive\documentos\visual studio 2015\Projects\Quatrochi_Elio\Capa.Entities\obj\Debug\Capa.Entities.pdb
+c:\users\elton\onedrive\documentos\visual studio 2015\Projects\Quatrochi_Elio\Capa.Entities\obj\Debug\Capa.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Desarrollo\Downloads\Capa.Entities\bin\Debug\Capa.Entities.dll
+C:\Users\Desarrollo\Downloads\Capa.Entities\bin\Debug\Capa.Entities.pdb
+C:\Users\Desarrollo\Downloads\Capa.Entities\obj\Debug\Capa.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Downloads\Capa.Entities\obj\Debug\Capa.Entities.dll
+C:\Users\Desarrollo\Downloads\Capa.Entities\obj\Debug\Capa.Entities.pdb
